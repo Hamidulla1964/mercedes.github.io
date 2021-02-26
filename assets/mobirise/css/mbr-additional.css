@@ -948,3 +948,105 @@ a {
   width: 100%;
   object-fit: cover;
 }
+.cid-sq94WimfEG {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+.cid-sq94WimfEG img,
+.cid-sq94WimfEG .item-img {
+  width: 100%;
+}
+.cid-sq94WimfEG .item:focus,
+.cid-sq94WimfEG span:focus {
+  outline: none;
+}
+.cid-sq94WimfEG .item {
+  cursor: pointer;
+  margin-bottom: 2rem;
+}
+.cid-sq94WimfEG .item-wrapper {
+  position: relative;
+  border-radius: 4px;
+  background: #fafafa;
+  height: 100%;
+  display: flex;
+  flex-flow: column nowrap;
+}
+@media (min-width: 992px) {
+  .cid-sq94WimfEG .item-wrapper .item-content {
+    padding: 2rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-sq94WimfEG .item-wrapper .item-content {
+    padding: 1rem;
+  }
+}
+.cid-sq94WimfEG .mbr-section-btn {
+  margin-top: auto !important;
+}
+.cid-sq94WimfEG .mbr-section-title {
+  color: #232323;
+}
+.cid-sq94WimfEG .mbr-text,
+.cid-sq94WimfEG .mbr-section-btn {
+  text-align: left;
+}
+.cid-sq94WimfEG .item-title {
+  text-align: left;
+}
+.cid-sq94WimfEG .item-subtitle {
+  text-align: left;
+}
+.cid-sq94XulvwV {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+.cid-sq94XulvwV img,
+.cid-sq94XulvwV .item-img {
+  width: 100%;
+}
+.cid-sq94XulvwV .item:focus,
+.cid-sq94XulvwV span:focus {
+  outline: none;
+}
+.cid-sq94XulvwV .item {
+  cursor: pointer;
+  margin-bottom: 2rem;
+}
+.cid-sq94XulvwV .item-wrapper {
+  position: relative;
+  border-radius: 4px;
+  background: #fafafa;
+  height: 100%;
+  display: flex;
+  flex-flow: column nowrap;
+}
+@media (min-width: 992px) {
+  .cid-sq94XulvwV .item-wrapper .item-content {
+    padding: 2rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-sq94XulvwV .item-wrapper .item-content {
+    padding: 1rem;
+  }
+}
+.cid-sq94XulvwV .mbr-section-btn {
+  margin-top: auto !important;
+}
+.cid-sq94XulvwV .mbr-section-title {
+  color: #232323;
+}
+.cid-sq94XulvwV .mbr-text,
+.cid-sq94XulvwV .mbr-section-btn {
+  text-align: left;
+}
+.cid-sq94XulvwV .item-title {
+  text-align: left;
+}
+.cid-sq94XulvwV .item-subtitle {
+  text-align: left;
+}
